@@ -13,14 +13,14 @@
 ```text
 .opencode/
   skills/
-    callmejay/
+    callmejagger/
       SKILL.md
 ```
 
 如果当前目录里已经有 `callmejagger/SKILL.md`，可以直接复制成下面这样：
 
 ```text
-.opencode/skills/callmejay/SKILL.md
+.opencode/skills/callmejagger/SKILL.md
 ```
 
 ## 使用方法
